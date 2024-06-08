@@ -1,6 +1,6 @@
-#About
+About
 Implementation of Federated Learning to classify X Ray Images into thoracic diseases
 
-#Requirements:
+Requirements:
 python
 flutter complete set up
