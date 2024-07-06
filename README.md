@@ -3,4 +3,4 @@ Implementation of Federated Learning to classify X Ray Images into thoracic dise
 
 Requirements:
 python
-flutter complete set up
+flutter
